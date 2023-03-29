@@ -16,4 +16,4 @@ function loader(element){
       element.textContent = '';
     }
   }, 300);
-}
+} 
